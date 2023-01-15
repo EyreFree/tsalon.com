@@ -6,23 +6,23 @@
 # cover_size:   封面图片大小
 # link:         链接路径，无链接为空即可
 #
-- name: 企业文化
+- name: 分享
   en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
+  description: 技术分享，大家来，共同进步，共同绽放。分享知识，分享力量，让技术，更加强大。
   cover: /images/culture/icon_1.svg
   cover_size: 64
   link:
 
-- name: 企业文化
+- name: 交流
   en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
-  cover: /images/culture/icon_2.svg
+  description: 技术交流，真精彩，与他人分享，快乐绽放。交流技能，交流心得，一起进步，不再孤单。
+  cover: /images/culture/icon_3.svg
   cover_size: 64
   link:
 
-- name: 企业文化
+- name: 进步
   en_name: 
-  description: 潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。
-  cover: /images/culture/icon_3.svg
+  description: 技术进步，速度惊人，为人类带来无限想象。探索未知，突破极限，把握时代，走向未来。
+  cover: /images/culture/icon_2.svg
   cover_size: 64
   link:

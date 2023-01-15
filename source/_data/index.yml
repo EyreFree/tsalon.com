@@ -5,30 +5,21 @@
 #
 - name: album
   id: 
-  title: 画廊
-  subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
+  title: 相册
+  subtitle: 记录沙龙活动 保留美好回忆
   partial: album
   bg_color: 
   fluid: 
-  more: 
-
-- name: customers
-  id: 
-  title: 客户
-  subtitle: 我们的客户来自世界上最好的公司
-  partials: [instapic, quotation]
-  bg_color: 
-  fluid: 
-  more: 
+  more: /gallery/
 
 - name: stories
   id: 
-  title: 案例
+  title: 活动
   subtitle: 实践见真知既是最好的解释
-  partial: page/stories
+  partial: page/stories-short
   bg_color: bg-light
   fluid: 
-  more: 
+  more: /stories/
 
 - name: archive
   id: 
@@ -38,6 +29,15 @@
   bg_color: 
   fluid: 
   more: /archives/
+
+- name: customers
+  id: 
+  title: 合作伙伴
+  subtitle: 互帮互助 合作共赢
+  partials: [instapic, quotation]
+  bg_color: 
+  fluid: 
+  more: 
 
 # - name: solution
 #   id: 
